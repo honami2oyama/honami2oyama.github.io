@@ -1,0 +1,35 @@
+.menu{
+	font-family: Arial;
+	font-weight: bold;
+    background-color: #34495e;
+	}
+      
+.menu1{
+    display: inline-block;
+    width:22%;
+    vertical-align: top;
+    text-align: center;
+    margin: 10px 5px 10px;
+    padding: 50px auto;
+    color: white;
+    }
+      
+.main{
+    display: inline-block;
+    width: 69%;
+    vertical-align: top;
+    }
+      
+.right_bar{
+    display: inline-block;
+    width: 29%;
+    }
+      
+.foot{
+    font-family: Arial;
+    font-weight: bold;
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }
